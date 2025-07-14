@@ -30,9 +30,6 @@ This project was created as part of the Team Better DevOps role assessment.
 ├── deployment.yaml # Kubernetes deployment configuration
 └── service.yaml # Kubernetes service definition
 
-yaml
-Copy
-Edit
 
 ---
 
